@@ -1,2 +1,2 @@
 # PongGame
-Simple Pong Game
+Simple Pong Game created with Turtle module
